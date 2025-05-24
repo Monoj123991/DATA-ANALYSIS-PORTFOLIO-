@@ -3,6 +3,6 @@
 VRINDA STORE WANT TO CREATE A SALES DASHBOARD SO THAT THEY CAN UNDERSTAND THEIR CUSTOMER AND GROW SALES IN UPCOMING YEARS 
 
 
-## datasets used
-- <a href="https://github.com/Monoj123991/DATA-ANALYSIS-PORTFOLIO-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">
+## Dataset used
+- <a href="https://github.com/Monoj123991/DATA-ANALYSIS-PORTFOLIO-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
