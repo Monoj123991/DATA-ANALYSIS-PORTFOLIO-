@@ -26,4 +26,14 @@ VRINDA STORE WANT TO CREATE A SALES DASHBOARD SO THAT THEY CAN UNDERSTAND THEIR 
 - Make all pivot table into dashboard and apply slicer to make dynamic.
 
 ## Dashboard 
-  
+  ![Screenshot 2025-05-24 192111](https://github.com/user-attachments/assets/1cbc0f89-fe59-4143-8e12-de2ce432c519)
+
+## Project Insight 
+- Women customers are more likely to buy more products compared to Men(65%).
+- The states of Maharashtra, Karnataka, and Uttar Pradesh are the top 3 product buyers.
+- The adult age group is max contributing(50%) and buys the most products.
+- The maximum number of products customers order from Amazon, Flipkart, and Myantra channels.
+- More than 90% of the products delivered.
+
+## Final Conclusion:
+To improve the sales of the Vrinda store, a strategic marketing plan focused on women aged 30-49 residing in Maharasta, Karnataka, and Uttar Pradesh should be implemented.This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions.
